@@ -1,4 +1,4 @@
-# About
+## Introduction
 
 HyperGrid protocol is a rollup scaling and orchestration framework for dedicated Solana Virtual Machine (SVM) ecosystem rollup operators. HyperGrid utilizes state compression and Byzantine Fault Tolerance (BFT) to achieve potentially infinite transaction throughput by enabling horizontal scaling across multiple grids, exemplified by [Sonic](https://sonic.game) – a gaming-specific grid that settles on Solana.
 
