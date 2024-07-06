@@ -5,3 +5,9 @@
     <ContentDoc />
   </main>
 </template>
+
+<script setup lang="ts">
+definePageMeta({
+  layout: "rpc",
+});
+</script>
