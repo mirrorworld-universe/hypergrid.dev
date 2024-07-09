@@ -9,11 +9,6 @@ HyperGrid is designed to be interoperable with Solana. It implements an interope
 ### SVM Client Diversity
 
 HyperGrid is client-agnostic, meaning that it can be used with any SVM client implementation. This makes it possible for program authors on Solana to implement high-performance clients while relying on HyperGrid's Shared Sequencer Network (HSSN) for consensus and interoperability.
-
-### Write for EVM, Execute on SVM
-
-HyperGrid implements an EVM interpreter for developers that want the speed of execution on SVMs while still being able to write for EVM. This allows for the creation of EVM-compatible smart contracts that can be executed on HyperGrid.
-
 ---
 
 HyperGrid is built and maintained by [Sonic](https://sonic.game), and will soon be open sourced under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
